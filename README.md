@@ -1,6 +1,6 @@
 # JustLetMeUseWheel
 
-Simply mapping all `Wheel Scrolls Down` event to `Left Click`.
+Simply mapping all `Wheel Scrolls Down` events to `Left Click`.
 
 ## Why
 
